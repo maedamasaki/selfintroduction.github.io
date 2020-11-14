@@ -194,7 +194,7 @@ header #sp-head .head-right img, header .sp-navi .head-close img{
 
 #main #top-wrapper{
     width:100%;
-    background-image:url("../images/top-image.jpg");
+    background-image:url("top-image.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     height:300px;
